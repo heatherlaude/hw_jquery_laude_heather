@@ -1,4 +1,4 @@
-$(function() {
+$( document ).ready(function() {
     var paragraphs = $('p');
     paragraphs.css({
         "background-color": "#4c8aa9",
